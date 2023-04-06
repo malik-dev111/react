@@ -1,0 +1,49 @@
+.card-s {
+    div {
+        h2 {
+            font-weight: 500;
+        }
+    }
+
+    .card-1 {
+        width: 199px;
+        height: 97px;
+        border-radius: 8px;
+        background-color: #2F76E6;
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .twocard-s {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 19px;
+        letter-spacing: 0em;
+        text-align: left;
+
+        .mini-card {
+            display: flex;
+            flex-direction: column;
+            .card {
+                height: 97px;
+                width: 199px;
+                border-radius: 8px;
+                background: #2F76E6;
+                
+                h1{
+                    width: 19px;
+                    height:38px ;
+                    color: #fff;
+                }
+                p{
+                    width: 91px;
+                    height:15px ;
+                    color: #fff;
+                }
+            }
+        }
+    }
+}

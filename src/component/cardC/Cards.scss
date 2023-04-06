@@ -1,0 +1,106 @@
+.date{
+    font-family: Roboto;
+font-size: 24px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+font-family: Roboto;
+font-size: 32px;
+font-weight: 500;
+line-height: 38px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.h1 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;  
+  align-items: center;
+  width: 937px;
+  height: 131px;
+
+  .card-6 {
+      width: 288px;
+      height: 97px;
+      background: #FFFFFF;
+      border-radius: 8px;
+
+      h1 {
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 600;
+          font-size: 32px;
+          line-height: 38px;
+          color: #2F76E5;
+      }
+
+      p {
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 13px;
+          line-height: 15px;
+          color: #000000;
+      }
+  }
+
+  .card-12 {
+      width: 288px;
+      height: 97px;
+      background: #FFFFFF;
+      border-radius: 8px;
+
+      h1 {
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 600;
+          font-size: 32px;
+          line-height: 38px;
+          color: #2F76E5;
+      }
+
+      p {
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 13px;
+          line-height: 15px;
+          color: #000000;
+      }
+  }
+  
+  .card-18 {
+      width: 288px;
+      height: 97px;
+      background: #FFFFFF;
+      border-radius: 8px;
+
+      h1 {
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 600;
+          font-size: 32px;
+          line-height: 38px;
+          color: #2F76E5;
+
+      }
+
+      p {
+          font-family: 'Roboto';
+          font-style: normal;
+          font-weight: 500;
+          font-size: 13px;
+          line-height: 15px;
+          color: #000000;
+      }
+  }
+}
